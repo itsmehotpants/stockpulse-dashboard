@@ -141,6 +141,8 @@ Full interactive docs at `/docs` (Swagger UI).
 - **Sector Performance**: Color-coded return cards per sector
 - **All Stocks at a Glance**: Clickable mini-cards with price, return, volatility
 
+<img src="assets/v2_overview.png" alt="Market Overview" width="800">
+
 ### 2. Stock Detail Tab
 - **Professional Candlestick Chart** with 7-day Moving Average overlay
 - **Synced Volume Histogram** (green = up day, red = down day)
@@ -150,10 +152,14 @@ Full interactive docs at `/docs` (Swagger UI).
 - **AI Prediction**: 7-day forecast with R-squared score and dashed prediction line on chart
 - **Stock Comparison**: Side-by-side normalized charts + correlation coefficient
 
+<img src="assets/v2_stockdetail.png" alt="Stock Detail" width="800">
+
 ### 3. Stock Screener Tab
 - Filter by: Min Daily Return %, Max Volatility %, Min Sentiment, Sector
 - Results table with sortable columns
 - Click any row to view full stock detail
+
+<img src="assets/v2_screener.png" alt="Stock Screener" width="800">
 
 ### 4. Correlation Heatmap Tab
 - Canvas-rendered color-coded correlation matrix
