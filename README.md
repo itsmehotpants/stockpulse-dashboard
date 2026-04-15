@@ -245,6 +245,3 @@ Jarnox/
 
 ---
 
-## License
-
-MIT License. Built as part of an internship assignment.
