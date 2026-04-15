@@ -1,10 +1,13 @@
 # StockPulse — Intelligence Dashboard
 
+**🚀 Live Demo: [https://stockpulse-dashboard-0906.onrender.com/](https://stockpulse-dashboard-0906.onrender.com/)**
+
 A **premium, full-stack financial data intelligence platform** that collects real NSE stock data, applies quantitative analytics, and presents actionable insights through a stunning dark-themed dashboard with professional-grade charts.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-green?logo=fastapi)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Deployment](https://img.shields.io/badge/Render-Deployed-success?logo=render)
 
 ---
 
